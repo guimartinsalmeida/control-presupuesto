@@ -1,5 +1,4 @@
 import React from 'react';
-import gasto from "./Gasto"
 import Gasto from './Gasto';
 
 const Listado = ({gastos}) => (  
